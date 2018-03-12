@@ -1,4 +1,4 @@
-# ReadNcep
+# read_ncep
 
 Read surface NCEP data from .nc fields:
 
